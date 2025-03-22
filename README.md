@@ -15,7 +15,7 @@ cp .env.example .env
 ```
 - Enter DB credentials in .env
 ```sh
-DB_CONNECTION=sqlite
+DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=taskApp
